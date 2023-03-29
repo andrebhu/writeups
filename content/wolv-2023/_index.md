@@ -1,6 +1,5 @@
 ---
-slug: wolvctf-2023
-title: "WolvCTF 2023"
+title: WolvCTF 2023
 weight: 0
 ---
 # WolvCTF 2023

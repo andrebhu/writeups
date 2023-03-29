@@ -1,7 +1,7 @@
 ---
 title: Index
-type: docs
 ---
 
 # ctfs
 
+- [WolvCTF 2023]({{< relref "/wolv-2023" >}})
