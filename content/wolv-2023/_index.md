@@ -85,6 +85,11 @@ buf = new Buffer("ZmxhZw==",'base64')["toString"]();
 log(process['env'][buf]);
 ```
 {{< /details >}}
+{{< details title="bhu#7316" open=true >}}
+```javascript
+console['log'](process['env']['fl'+'ag'])
+```
+{{< /details>}}
 ### yellsatpython
 - https://gist.github.com/shinmai/5720d1f0a214d0878cfb530eb975c469
 
