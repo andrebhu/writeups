@@ -1,5 +1,6 @@
 ---
-weight: 0
-bookFlatSection: true
+slug: "ctfs"
 title: "ctfs"
+bookFlatSection: true
+weight: 0
 ---
