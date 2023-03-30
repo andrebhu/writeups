@@ -4,7 +4,7 @@ weight: 0
 ---
 # LA CTF 2023
 
-- [CTFTime](https://ctftime.org/event/1732)
+- [CTFtime](https://ctftime.org/event/1732)
 - [GitHub Repository](https://github.com/uclaacm/lactf-archive/tree/main)
 
 ## **crypto**

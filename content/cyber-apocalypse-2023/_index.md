@@ -5,7 +5,7 @@ weight: 0
 
 # Cyber Apocalypse 2023: The Cursed Mission
 
-- [CTFTime](https://ctftime.org/event/1889)
+- [CTFtime](https://ctftime.org/event/1889)
 
 ## **Web**
 ### Trapped Source
