@@ -3,15 +3,11 @@ title: UMassCTF 2023
 weight: 0
 ---
 
-# UMass CTF
-
-  
+# UMass CTF 2023
 
 - [CTFTime](https://ctftime.org/event/1912)
-
 - [Github](https://github.com/UMassCybersecurity/UMassCTF-2023-challenges-mirror)
 
-  
 
 ## **web**
 

@@ -5,7 +5,7 @@ weight: 0
 # WolvCTF 2023
 
 - [CTFtime](https://ctftime.org/event/1866)
-- [GitHub Repository](https://github.com/WolvSec/WolvCtf-2023-Challenges-Public)
+- [GitHub](https://github.com/WolvSec/WolvCtf-2023-Challenges-Public)
 
 ## **crypto**
 ### theyseemerolling

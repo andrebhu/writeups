@@ -5,7 +5,7 @@ weight: 0
 # LA CTF 2023
 
 - [CTFtime](https://ctftime.org/event/1732)
-- [GitHub Repository](https://github.com/uclaacm/lactf-archive/tree/main)
+- [GitHub](https://github.com/uclaacm/lactf-archive/tree/main)
 
 ## **crypto**
 ### chinese-lazy-theorem-1

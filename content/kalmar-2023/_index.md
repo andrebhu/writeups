@@ -5,7 +5,6 @@ weight: 0
 # KalmarCTF 2023
 
 - [CTFTime](https://ctftime.org/event/1878)
-
 - [Github](https://github.com/kalmarunionenctf/kalmarctf-2023)
   
 ## **crypto**
